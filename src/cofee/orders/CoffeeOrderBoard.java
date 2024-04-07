@@ -4,6 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 public class CoffeeOrderBoard {
+
     private Queue<Order> orders;
 
     public CoffeeOrderBoard() {
