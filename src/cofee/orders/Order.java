@@ -2,7 +2,7 @@ package cofee.orders;
 
 public class Order {
 
-    private int orderCounter = 0;
+    private static int orderCounter = 0;
     private int orderNumber;
     private String customerName;
 
